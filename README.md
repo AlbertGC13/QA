@@ -27,6 +27,7 @@ El proyecto incluye pruebas unitarias para todas las clases principales:
     ```sh
     git clone https://github.com/AlbertGC13/QA.git
     cd QA
+    Asegurarte estar en la branch "master"
     ```
 
 2. **Compilar el proyecto y ejecutar las pruebas unitarias**:
